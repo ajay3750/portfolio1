@@ -72,18 +72,10 @@ const Experience = () => {
             <Details
               position="UI/UX Designer"
               company="STELLAR VIT"
-              companyLink="ISRO.com"
+              companyLink="/"
               time="2023-Present"
               address="Vit Vellore, TN"
               work=""
-            />
-
-            <Details
-              position="ELECTRONICS ENGINEER"
-              company="IEEE RAS"
-              companyLink="www.google.com"
-              time="2023-Present"
-              address=""
             />
           </li>
         </ul>

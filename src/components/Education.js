@@ -40,9 +40,9 @@ const Education = () => {
         <ul className='w-full flex flex-col items-start justify-between ml-4'>
           <li>
                 <Details
-type="Indian Certificate of Secondary Education (ICSE)" 
+type="Board of High School and Intermediate Education Uttar Pradesh" 
 time="2018"
-place="CITY MONTESSORI SCHOOL" 
+place="SHAKTI MONTESSORI HIGH SCHOOL" 
 info="BOARD EXAM CLASS 10"
                 />
                    <Details
